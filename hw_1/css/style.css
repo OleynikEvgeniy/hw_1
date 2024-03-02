@@ -1,0 +1,30 @@
+body
+{
+    background-color: rgb(4, 4, 5);
+    color: white;
+    font-size: 20px;
+    font-family: "Verdana";
+}
+h1
+{
+   text-align: center;
+   font-family: "Arial";
+   
+}
+a.instagram{
+    color: rgb(230, 61, 19); 
+    vertical-align: 380px;
+    margin-left: 1100px;
+}
+a.recipe{
+color: rgb(230, 61, 19); 
+margin-left: 1500px;
+}
+a.questionnaire{
+    color: rgb(230, 61, 19); 
+    margin-left: 1500px;
+}
+img.napoleon{
+display: block;
+margin: auto;
+}
